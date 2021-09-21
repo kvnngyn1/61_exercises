@@ -1,0 +1,20 @@
+// JSON means Javascript object notation
+// In JSON keys are in double quotes, JSON is very specific with its format
+// You can with list of data or object of data
+
+// below is a list of data
+// You can loop the data since its a list 
+
+[
+    {
+    "firstName": "Derek",
+    "lastName": "Hawkins",
+    "email": "derekh@codingtemple.com"
+    }
+
+    {
+    "firstName": "Lucas",
+    "lastName": "Lang",
+    "email": "lucasl@codingtemple.com"
+    }
+]

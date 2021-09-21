@@ -1,0 +1,15 @@
+// Object of data version
+// With this you have to pull data by key names or convert to a list to pull data
+
+{
+    "Derek": {
+        "firstName": "Derek",
+        "lastName": "Hawkins",
+        "email": "derekh@codingtemple.com"
+    },
+    "Ripal": {
+        "firstName": "Ripal",
+        "lastName": "Patel",
+        "email": "ripalp@codingtemple.com"
+    }
+}
